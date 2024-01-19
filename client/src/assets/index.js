@@ -33,7 +33,13 @@ import Dubai from './dubai.png'
 import NewYork from './newyork.png'
 import Honkong from './hongkong.png'
 import Vilinus from './vilinus.png'
-
+import LondonIcon from './LondonIconImg.svg'
+import SingaporeIcon from './SingaporeIconImg.svg'
+import DubaiIcon from './DubaiIconImg.svg'
+import NewYorkIcon from './NewYorkIconImg.svg'
+import HongkongIcon from './HongkongIconImg.svg'
+import VilinusIcon from './VilniusIcon.svg'
+import ArrowRight from './arrowright.svg'
 export {
   LogoSvg,
   BannerLeft,
@@ -70,4 +76,11 @@ export {
   Honkong,
   Vilinus,
   London,
+  SingaporeIcon,
+  DubaiIcon,
+  NewYorkIcon,
+  HongkongIcon,
+  VilinusIcon,
+  LondonIcon,
+  ArrowRight,
 }

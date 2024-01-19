@@ -13,7 +13,7 @@ import {
 } from '../assets'
 const Team = () => {
   return (
-    <div className='w-full text-white bg-gradient-to-br from-[#121212] to-[#25246b]  '>
+    <div className='w-full text-white bg-gradient-to-b from-[#121212] via-[#141414] to-[#25246b] '>
       <div className='max-w-screen-xl mx-auto px-10'>
         <div>
           <div className='flex justify-center py-20'>

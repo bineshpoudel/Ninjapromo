@@ -15,6 +15,7 @@ import DownloadMap from '../components/DownloadMap'
 import GlobalOffices from '../components/GlobalOffices'
 import Contact from '../components/Contact'
 import Footer from '../components/Footer'
+import MainFooter from '../components/MainFooter'
 
 const Home = () => {
   return (
@@ -35,6 +36,7 @@ const Home = () => {
       <GlobalOffices />
       <Contact />
       <Footer />
+      <MainFooter />
     </div>
   )
 }

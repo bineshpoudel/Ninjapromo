@@ -7,7 +7,7 @@ import Button from './Button'
 
 const Banner = () => {
   return (
-    <div className='w-full h-[80vh] bg-gradient-to-r from-[#25246b] to-[#121212]'>
+    <div className='w-full h-[80vh] bg-gradient-to-br from-[#25246b] via-[#141414] to-[#121212]'>
       <div className='max-w-screen-xl mx-auto px-10 pt-20 text-white flex items-center justify-between'>
         <div className='flex flex-col gap-8'>
           <div className='flex gap-10'>
@@ -28,9 +28,12 @@ const Banner = () => {
             <img src={AirBnb} alt='airbnb' className='h-8' />
           </div>
           <div className='flex items-center gap-6'>
-            <Button label='Book a call' />
+            <div className='w-72'>
+              <Button label='Book a call' />
+            </div>
+
             <IoIosArrowRoundBack className='text-4xl' />
-            <p>
+            <p className='text-sm font-thin'>
               Development, design, content, ads and <br /> all you need in one
               subscription
             </p>

@@ -4,8 +4,10 @@ import { MdOutlineKeyboardArrowRight } from 'react-icons/md'
 import BrandCard from './BrandCard'
 import FacilitiesBtn from './FacilitiesBtn'
 const BrandPromotion = () => {
+  // bg-gradient-to-br from-[#25246b] via-[#141414] to-[#121212]
+  //                    color xeuko                  chaiyeko
   return (
-    <div className='w-full text-white bg-gradient-to-br from-[#121212] to-[#25246b] pt-20 pb-20 '>
+    <div className='w-full text-white bg-gradient-to-b from-[#25246b] via-[#141414] to-[#121212] pt-20 '>
       <div className='max-w-screen-xl mx-auto px-10'>
         <div>
           <div className='relative'>
