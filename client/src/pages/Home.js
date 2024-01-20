@@ -15,12 +15,10 @@ import DownloadMap from '../components/DownloadMap'
 import GlobalOffices from '../components/GlobalOffices'
 import Contact from '../components/Contact'
 import Footer from '../components/Footer'
-import MainFooter from '../components/MainFooter'
 
 const Home = () => {
   return (
     <div>
-      <Header />
       <Banner />
       <Benefits />
       <Team />
@@ -36,7 +34,6 @@ const Home = () => {
       <GlobalOffices />
       <Contact />
       <Footer />
-      <MainFooter />
     </div>
   )
 }

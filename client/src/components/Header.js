@@ -2,6 +2,7 @@ import { LogoSvg } from '../assets/index'
 import React from 'react'
 import { SlArrowDown } from 'react-icons/sl'
 import Button from './Button'
+import { Link } from 'react-router-dom'
 const Header = () => {
   return (
     <div className='w-full h-20 bg-gradient-to-r from-[#25246B]  to-[#121213] text-white transition duration-500 hover:bg-[#121212] hover:bg-gradient-to-r hover:from-[#121212] hover:to-[#121212]'>
@@ -38,15 +39,17 @@ const Header = () => {
             </a>
             <SlArrowDown />
           </div>
-          <div className='flex items-center gap-2'>
-            <a
-              href='#'
-              className='hover:text-blue-500 transition-colors duration-300 ease-in-out'
-            >
-              Company
-            </a>
-            <SlArrowDown />
-          </div>
+          <Link to='/about'>
+            <div className='flex items-center gap-2'>
+              <a
+                href='#'
+                className='hover:text-blue-500 transition-colors duration-300 ease-in-out'
+              >
+                Company
+              </a>
+              <SlArrowDown />
+            </div>
+          </Link>
           <div className='hover:text-blue-500 transition-colors duration-300 ease-in-out'>
             Contact
           </div>
