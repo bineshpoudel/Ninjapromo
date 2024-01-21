@@ -40,8 +40,43 @@ import NewYorkIcon from './NewYorkIconImg.svg'
 import HongkongIcon from './HongkongIconImg.svg'
 import VilinusIcon from './VilniusIcon.svg'
 import ArrowRight from './arrowright.svg'
+
+// award section export
+
+import InfluencerMarketingHub from './influencermarkting.svg'
+import Crunchbase from './crunchbase.svg'
+import DigitalAgencyNetwork from './digitalagencynetwork.png'
+import Icoholder from './icoholder.svg'
+import Coincodex from './coincodex.svg'
+import SoftwareWorld from './softwareworld.png'
+import Cryptotown from './cryptotown.png'
+import Startupstashaws from './startupstashaws.png'
+import Businesscommunity from './businesscommunity.svg'
+import Fintechdrift from './fintechdrift.png'
+import Fintechzoom from './finetechzoom.png'
+
+import Polygon from './polygon.png'
+import Techstars from './techstars.png'
+import Iosg from './iosgventures.png'
+import Ycombinator from './ycombinator.png'
+import SignumCapital from './signumcapital.png'
+
+import CeoInnowise from './ceoinnowise.jpeg'
+import UnityNetwork from './unitynetwork.png'
+import CeoUnityNetwork from './ceounitynetwork.jpeg'
+import Tozex from './tozex.png'
+import CeoTozex from './ceotozex.jpeg'
+import BrainScientific from './brainscientific.png'
+import CeoBrainScientific from './ceobrainscientific.jpeg'
+import CeoUltron from './ceoultron.jpeg'
+import UltronRe from './ultronre.png'
+import InnowiseRe from './innowisere.png'
+import Slava from './slava.jpeg'
+import Valerij from './Valerij.jpeg'
+import Paul from './paul.jpeg'
+import Tanya from './tanya.jpeg'
+import TheTeam from './theteam.gif'
 export {
-  LogoSvg,
   BannerLeft,
   BannerRight,
   Logitech,
@@ -83,4 +118,36 @@ export {
   VilinusIcon,
   LondonIcon,
   ArrowRight,
+  InfluencerMarketingHub,
+  Crunchbase,
+  DigitalAgencyNetwork,
+  Icoholder,
+  Coincodex,
+  SoftwareWorld,
+  Cryptotown,
+  Startupstashaws,
+  Businesscommunity,
+  Fintechdrift,
+  Fintechzoom,
+  Polygon,
+  Techstars,
+  Iosg,
+  Ycombinator,
+  SignumCapital,
+  CeoUltron,
+  CeoBrainScientific,
+  BrainScientific,
+  Tozex,
+  CeoTozex,
+  CeoInnowise,
+  UnityNetwork,
+  CeoUnityNetwork,
+  LogoSvg,
+  UltronRe,
+  InnowiseRe,
+  Slava,
+  Valerij,
+  Paul,
+  Tanya,
+  TheTeam,
 }
