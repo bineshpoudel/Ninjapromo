@@ -24,7 +24,7 @@ const Team = () => {
 
           <div className='relative p-6 md:p-0'>
             <div class='h-84 w-full rounded-md bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500 p-0.5'>
-              <div class=' h-full w-full bg-[#121212] p-3 pt-6 md:p-20 flex flex-col gap-10'>
+              <div class=' h-full w-full bg-[#121212] p-3 pt-6 md:p-20 flex flex-col gap-10 rounded-md'>
                 <h1 className='text-md md:text-3xl'>
                   Access a team of 100+ top &nbsp;
                   <br className='hidden md:block' />

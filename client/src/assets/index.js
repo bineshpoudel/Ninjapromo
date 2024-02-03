@@ -76,7 +76,18 @@ import Valerij from './Valerij.jpeg'
 import Paul from './paul.jpeg'
 import Tanya from './tanya.jpeg'
 import TheTeam from './theteam.gif'
+import Fantom from './fantom.svg'
+import Iqoniq from './ioniq.png'
+import Polkadot from './polkadot.svg'
+import Manifest from './manifest.png'
+import Clutch from './Clutch.png'
+
 export {
+  Fantom,
+  Manifest,
+  Clutch,
+  Iqoniq,
+  Polkadot,
   BannerLeft,
   BannerRight,
   Logitech,

@@ -16,7 +16,7 @@ const Award = () => {
   )
 
   return (
-    <div className='w-full bg-[#121212] text-white'>
+    <div className='w-full bg-[#121212] text-white pt-10'>
       <div className='max-w-screen-xl mx-auto px-10'>
         <div className='grid grid-cols-2 md:grid-cols-4 gap-5 md:gap-0'>
           {digitalMarketingAwards.map((award) => (

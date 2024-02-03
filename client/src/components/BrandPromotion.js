@@ -10,7 +10,7 @@ const BrandPromotion = () => {
         <div>
           <div className='relative px-6  md:px-0'>
             <div className='h-84 w-full rounded-md bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500 p-0.5'>
-              <div className=' h-full w-full bg-gradient-to-r from-[#1d1d1d] to-[#2b2b2b]  p-5 md:p-10 flex flex-col gap-10'>
+              <div className=' h-full w-full bg-gradient-to-r from-[#1d1d1d] to-[#2b2b2b]  p-5 md:p-10 flex flex-col gap-10 rounded-md'>
                 <div className='flex flex-col gap-10'>
                   <div className='flex flex-col md:flex-row justify-between pb-8'>
                     <h1 className='text-3xl text-left'>

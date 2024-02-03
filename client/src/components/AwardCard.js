@@ -5,8 +5,8 @@ const AwardCard = ({ img, desc }) => {
   return (
     <div className='relative border p-[0.4rem] md:p-[0.8rem] h-[6rem] w-[8.1rem] md:w-[18rem] md:h-[11rem] rounded-tl-3xl rounded-br-3xl'>
       <div className=' h-full border p-[0.4rem]  border-dotted rounded-tl-2xl rounded-br-2xl flex flex-col items-center'>
-        <div className='w-18 md:w-24 h-5  md:h-16 flex items-center justify-center'>
-          <img src={img} alt='' className='max-h-full w-full' />
+        <div className='flex items-center justify-center'>
+          <img src={img} alt='' className='h-[4rem] w-full' />
         </div>
         <div className='w-[8rem] md:w-[18rem] p-2'>
           <p className='text-[0.5rem] md:text-sm font-semibold text-center px-3'>

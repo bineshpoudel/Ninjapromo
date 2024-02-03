@@ -16,14 +16,14 @@ const MarketingServices = () => {
       <div className='max-w-screen-xl mx-auto px-10 py-20'>
         <div className='relative'>
           <div class='h-[90vh] w-full rounded-md bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500 p-0.5'>
-            <div class=' h-full w-full bg-gradient-to-r from-[#191919] to-[#282828]  p-10 flex flex-col gap-10'>
+            <div class=' h-full w-full bg-gradient-to-r from-[#191919] to-[#282828]  p-10 flex flex-col gap-10 rounded-md'>
               <h1 className='text-3xl'>
                 All marketing services <br />
                 in one subscription
               </h1>
 
               <div className='flex gap-28 items-center'>
-                <button className='w-40 rounded-md bg-[#3C39C6] px-2 py-4'>
+                <button className='w-40 rounded-md bg-[#3C39C6] px-3 py-4 font-bold text-left'>
                   Your ninja Promo marketing department
                 </button>
                 <div className='flex flex-col'></div>

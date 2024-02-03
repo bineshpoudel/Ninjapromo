@@ -7,7 +7,7 @@ const Packages = () => {
       <div className='max-w-screen-xl mx-auto px-10 pb-32'>
         <div className='pb-20'>
           <h1 className='text-center text-4xl '>
-            If you have fewer tasks right now, <br /> choose the 80 or 40-hour
+            If you have fewer tasks right now,<br> choose the 80 or 40-hour
             package
           </h1>
         </div>

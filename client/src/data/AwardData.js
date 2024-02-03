@@ -71,7 +71,7 @@ const AwardData = [
     id: '10',
     img: DigitalAgencyNetwork,
     desc: 'Best Marketing Agencies for Fintech companies',
-    award: 'blocktechmarketing',
+    award: 'blockchainmarketing',
   },
 
   {
